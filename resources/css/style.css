@@ -1,3 +1,21 @@
-.active {
-  
+html {
+  font-family: "Open-sans", sans-serif;
+  font-size: 16px;
+}
+
+.navbar-default .navbar-nav .active  a {
+  text-decoration: none;
+}
+
+.navbar-default .navbar-nav .active  a:hover {
+
+}
+
+.jumbotron {
+  background-image: url(../images/jumbotron-bike.jpg);
+}
+
+.jumbotron p {
+  color: white;
+  text-shadow: 2px 2px black;
 }
