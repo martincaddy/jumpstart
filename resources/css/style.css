@@ -40,6 +40,7 @@ html {
   text-shadow: 2px 2px black;
 }
 
-/*.col-xs-12 {
-  width:100%;
-}*/
+.image-container img {
+  opacity: 0.7;
+  width: 100%;
+}
