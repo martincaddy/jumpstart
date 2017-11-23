@@ -39,3 +39,7 @@ html {
   color: #ffffff;
   text-shadow: 2px 2px black;
 }
+
+.col-xs-12 {
+  width:100%;
+}
